@@ -1,4 +1,5 @@
 Overview
+
 This Social Media App is a full-stack web application developed using the MERN stack. It allows users to connect, share updates, and interact with each other in a social media environment.
 
 Features
